@@ -1,0 +1,7 @@
+2021-02-17 13:03:56,352 [main] INFO LogDemo - Chrome opened
+2021-02-17 13:03:56,509 [main] INFO LogDemo - Browser is maximized
+2021-02-17 13:04:01,385 [main] INFO LogDemo - Google opened
+2021-02-17 13:04:39,940 [main] INFO LogDemo - Chrome opened
+2021-02-17 13:04:40,106 [main] INFO LogDemo - Browser is maximized
+2021-02-17 13:04:43,925 [main] INFO LogDemo - Google opened
+2021-02-17 13:04:44,219 [main] INFO LogDemo - Selenium tutorials entered in google

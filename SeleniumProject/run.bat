@@ -1,0 +1,1 @@
+java -cp bin;library/* org.testng.TestNG jenkins.xml
