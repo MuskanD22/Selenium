@@ -37,7 +37,7 @@ public class TestDDT {
 		Object [][] wordpress=new Object[3][2];
 		// Enter data to row 0 column 0
 
-		wordpress[0][0]="admin2";
+		wordpress[0][0]="admin1";
 		
 		// Enter data to row 0 column 1
 
@@ -46,7 +46,7 @@ public class TestDDT {
 		wordpress[1][0]="admin";
 		wordpress[1][1]="demo123";
 		
-		wordpress[2][0]="admin1";
+		wordpress[2][0]="admin2";
 		wordpress[2][1]="demo12";
 		
 		return wordpress;
